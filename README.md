@@ -1,7 +1,7 @@
 # A-Data-driven-exploration-of-apple-s-iphone-impact-in-india 
 
 
-dashboard link - public.tableau.com/app/profile/rithisha.r/viz/Book1_16970908377160/Dashboard1
+dashboard link -https://public.tableau.com/views/Book1_16970908377160/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
 
 
 story link - public.tableau.com/app/profile/rithisha.r/viz/Book1_16970908377160/Story
